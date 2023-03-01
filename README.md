@@ -1,11 +1,13 @@
 # MSIS Examples
 
+Modified from https://github.com/SWxTREC/msis-examples courtesy of Greg Lucas.
+
 Launch the interactive version in a browser with Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SWxTREC/msis-examples/HEAD?labpath=MSIS-Interactive-Example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarahELuettgen/msis-example-aero.git/HEAD)
 
-This notebook is designed to give a quick interactive overview of the MSIS model and how adjusting the input parameters affects the upper atmosphere. We will go through a few quick examples and demonstrations, before the homework problems towards the end of the notebook.
+This notebook is designed to give a quick interactive overview of the MSIS model and how adjusting the input parameters affects the upper atmosphere. We will go through a few quick examples and demonstrations.
 
-If you prefer a web interface to coding, there is also an interactive website here: [https://msis.swx-trec.com/visualizer](https://msis.swx-trec.com/visualizer) that you can follow along with and download all of the necessary data for the homework problems.
+If you prefer a web interface to coding, there is also an interactive website here: [https://msis.swx-trec.com/visualizer](https://msis.swx-trec.com/visualizer) that you can follow along with and download all of the necessary data.
 
 ## NRL Mass Spectrometer, Incoherent Scatter Radar Extended Model (MSIS)
 
